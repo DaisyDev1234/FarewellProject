@@ -1,0 +1,12 @@
+
+.Cover{
+  position:fixed;
+  width: 480px;
+  height: 480px;
+  font-size: x-large;
+}
+
+.Cover:hover{
+  opacity: 0.001;
+}
+
